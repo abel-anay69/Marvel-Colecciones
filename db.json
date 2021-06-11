@@ -266,8 +266,74 @@
 					"enlace": ""
 				}
 			]
-		}
+		},
 		      
+		{
+			"id": "daredevil",
+			"nombre": "DareDevil",
+			"imagen": "/img/img_tienda/comic/marvel/MostrarComics/marvel-premiere-daredevil-01-conoce-el-miedo.jpg",
+			"num_tomos": 10,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		},
+		      
+		      
+		 {
+			"id": "motorista",
+			"nombre": "Motorista Fantasma",
+			"imagen": "/img/img_tienda/comic/marvel/MostrarComics/motorista.jpg",
+			"num_tomos": 9,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		}     
 		
 	]
 
