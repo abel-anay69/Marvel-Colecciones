@@ -233,7 +233,41 @@
 					"enlace": ""
 				}
 			]
+		},
+		  
+		{
+			"id": "aniquilacion",
+			"nombre": "Aniquilacion",
+			"imagen": "/img/img_tienda/comic/marvel/MostrarComics/aniquilacion-02-nova-estela-plateada.jpg",
+			"num_tomos": 5,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
 		}
+		      
 		
 	]
 
